@@ -1,2 +1,2 @@
-# Hola-mi-brid
+# Hola
 This is my first repository
